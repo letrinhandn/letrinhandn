@@ -22,20 +22,11 @@ Public Policy and Administration — Economic Policy, Data Analysis
 - *CS50’s Introduction to Programming with R* — Harvard University  
 
 ---
-
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=0B3D2E&style=flat-square&logo=github&logoColor=E5C07B">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/static/v1?label=&message=Email&color=0B3D2E&style=flat-square&logo=gmail&logoColor=E5C07B">
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0B3D2E&style=flat-square&logo=linkedin&logoColor=E5C07B">
-  </a>
+<p align="center" style="font-family:'Courier New', monospace; font-size:15px;">
+  <a href="https://github.com/yourusername" style="color:#E5C07B; text-decoration:none;">✦ GitHub</a> · 
+  <a href="mailto:your.email@example.com" style="color:#E5C07B; text-decoration:none;">✉︎ Email</a> · 
+  <a href="https://www.linkedin.com/in/your-linkedin" style="color:#E5C07B; text-decoration:none;">☍ LinkedIn</a>
 </p>
-
-
 
 ---
 
