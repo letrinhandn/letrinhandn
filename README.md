@@ -4,17 +4,20 @@
 
 ---
 
-### ✒︎ Nhân Lê Trí  
-Political Economy | Philosophy | Research & Reflection
+### ✒︎ Overview  
+
+**Nhân Lê Trí**  
+Political Economy | Philosophy | Research & Reflection  
 
 ---
 
-🎓 **The London School of Economics and Political Science (LSE)**  
-Public Policy and Administration — Quantitative Research and Economic Policy  
+#### 🎓 Education  
 
-🎓 **National Economics University (Vietnam)**  
-Public Policy and Administration — Economic Policy, Data Analysis  
+- **The London School of Economics and Political Science (LSE)**  
+  *Public Policy and Administration — Quantitative Research and Economic Policy*  
 
+- **National Economics University (Vietnam)**  
+  *Public Policy and Administration — Economic Policy, Data Analysis*  
 ---
 
 📜 **Certifications**  
