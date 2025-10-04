@@ -38,7 +38,7 @@ Public Policy and Administration — Economic Policy, Data Analysis
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/letrinhandn" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/letrinhan/" title="LinkedIn">
     <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
