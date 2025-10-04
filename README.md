@@ -32,7 +32,7 @@ Public Policy and Administration — Economic Policy, Data Analysis
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <!-- Email -->
-  <a href="mailto:your.email@example.com" title="Email">
+  <a href="mailto:letrinhan123@gmail.com" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -44,7 +44,7 @@ Public Policy and Administration — Economic Policy, Data Analysis
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <!-- ORCID -->
-  <a href="https://orcid.org/your-orcid-id" title="ORCID">
+  <a href="https://orcid.org/0009-0004-6075-4119" title="ORCID">
     <img width="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
   </a>
 
