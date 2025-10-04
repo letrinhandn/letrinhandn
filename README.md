@@ -5,7 +5,7 @@
 ---
 
 ### ✒︎ Nhân Lê Trí  
-Political Economy · Quantitative Research · Systems Analysis  
+Political Economy | Philosophy | Research & Reflection
 
 ---
 
