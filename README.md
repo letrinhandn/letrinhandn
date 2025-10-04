@@ -15,8 +15,8 @@
 - **The London School of Economics and Political Science (LSE)**  
   *MSc — Public Policy and Administration*  
 
-- **National Economics University (Vietnam)**  
-  *Bachelor — Public Policy and Administration — Economic Policy, Data Analysis*  
+- **National Economics University (NEU)**  
+  *Bachelor — Public Policy and Administration*  
 ---
 
 📜 **Certifications**  
