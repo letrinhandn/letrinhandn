@@ -4,42 +4,42 @@
 
 ---
 
-**Nhân Lê Trí**  
+### ✒︎ Nhân Lê Trí  
 Political Economy · Quantitative Research · Systems Analysis  
 
 ---
 
-**Orientation**  
+### 📖 Orientation  
 Economic systems as computational artifacts.  
 Modeling as critique.  
 
 ---
 
-**Focus**  
-Political economy · Quantitative methods · Network dynamics  
-Redistribution · Behavioral systems · Digital governance  
+### ⚙︎ Focus  
+⌨︎ Political economy · Quantitative methods · Network dynamics  
+⚖︎ Redistribution · Behavioral systems · Digital governance  
 
 ---
 
-**Projects**  
-- red-econ-lab — reproducible economic experiments  
-- statecraft-sims — agent-based redistribution models  
-- praxis-oracle — collective verification oracle  
+### 📜 Projects  
+✎ **red-econ-lab** — reproducible economic experiments  
+✎ **statecraft-sims** — agent-based redistribution models  
+✎ **praxis-oracle** — collective verification oracle  
 
 ---
 
-**Publications**  
-- *Innovation and Collaboration in Vietnam* — Springer, 2024  
-- *Privacy Behavior of Youth on Social Networks* — JED, 2023  
+### 📚 Publications  
+📖 *Innovation and Collaboration in Vietnam* — Springer, 2024  
+📖 *Privacy Behavior of Youth on Social Networks* — JED, 2023  
 
 ---
 
-**Stack**  
-R · Python · Stan · Solidity · Docker  
+### ⚗︎ Stack  
+`R` · `Python` · `Stan` · `Solidity` · `Docker`  
 
 ---
 
-**Contact**  
+### 📮 Contact  
 [GitHub](https://github.com/yourusername) · [Email](mailto:your.email@example.com) · [LinkedIn](https://linkedin.com/in/your-linkedin)  
 
 ---
