@@ -1,57 +1,49 @@
-<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only" width="120">
-<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only" width="120">
-
-### Hey there 👋
-
-🟥 I'm **Nhân Lê Trí**  
-🧠 Marxist–Economist with hacker hands  
-🪶 Writing code, essays, and manifestos in red & gold  
-💾 Building small systems that think about systems  
-
-<br><br><br>
+<div align="center">
+  <img src="https://i.imgur.com/n3y46Y2.jpg" style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 8px;">
+</div>
 
 ---
 
-#### 🧭 Philosophy
-> *Code is not neutral. It carries ideology.*  
-> I write reproducible code & economic models — not for efficiency, but for understanding.  
+**Nhân Lê Trí**  
+Political Economy · Quantitative Research · Systems Analysis  
 
 ---
 
-#### ⚙️ Projects
-
-| 🔴 **Research / Thought Tools** | 🟡 **Crypto / Systems** |
-| ------------------------------- | ----------------------- |
-| [red-econ-lab](https://github.com/yourusername/red-econ-lab) – experiments in reproducible econ | [praxis-oracle](https://github.com/yourusername/praxis-oracle) – on-chain oracle for collective audits |
-| [statecraft-sims](https://github.com/yourusername/statecraft-sims) – small agent-based redistributive models | [signal-commons](https://github.com/yourusername/signal-commons) – privacy-preserving social measures |
+**Orientation**  
+Economic systems as computational artifacts.  
+Modeling as critique.  
 
 ---
 
-#### 🛠️ Stack
-`R` · `Python` · `Solidity` · `bash` · `docker`  
-<sub>typewriter fonts, crimson terminals, gold prompts</sub>
+**Focus**  
+Political economy · Quantitative methods · Network dynamics  
+Redistribution · Behavioral systems · Digital governance  
 
 ---
 
-#### 🪧 Aesthetic
-<p align="center">
-  <img src="https://img.shields.io/badge/vibe-red_scholar-darkred?style=flat-square&labelColor=640D14&color=FFD700">
-  <img src="https://img.shields.io/badge/code-political-critical?style=flat-square&labelColor=640D14&color=FFD700">
-  <img src="https://img.shields.io/badge/manifesto-open_source?style=flat-square&labelColor=640D14&color=FFD700">
-</p>
+**Projects**  
+- red-econ-lab — reproducible economic experiments  
+- statecraft-sims — agent-based redistribution models  
+- praxis-oracle — collective verification oracle  
 
 ---
 
-#### 📬 Connect
-[![pgp](https://img.shields.io/badge/pgp-0xYOURKEY-darkred?style=flat&labelColor=640D14&color=FFD700)](https://github.com/yourusername.gpg)
-[![views](https://komarev.com/ghpvc/?username=yourusername&style=flat&color=640D14&label=views&abbreviated=true)](https://github.com/yourusername)
-[![GitHub](https://img.shields.io/badge/github-yourusername-darkred?style=flat&labelColor=640D14&color=FFD700)](https://github.com/yourusername)
+**Publications**  
+- *Innovation and Collaboration in Vietnam* — Springer, 2024  
+- *Privacy Behavior of Youth on Social Networks* — JED, 2023  
 
 ---
 
-<div align="right">
+**Stack**  
+R · Python · Stan · Solidity · Docker  
 
-**~** *Nhân Lê Trí — red hacker-scholar*  
-<sub>“think. code. revolt.”</sub>
+---
 
+**Contact**  
+[GitHub](https://github.com/yourusername) · [Email](mailto:your.email@example.com) · [LinkedIn](https://linkedin.com/in/your-linkedin)  
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/WpGqeip.jpg" style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 8px;">
 </div>
