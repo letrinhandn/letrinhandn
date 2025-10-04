@@ -6,7 +6,7 @@
 
 ### ✒︎ Overview  
 
-**Political Economy | Philosophy | Research & Reflection ** 
+**Political Economy | Philosophy | Research & Reflection** 
 
 ---
 
