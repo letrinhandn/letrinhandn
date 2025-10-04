@@ -24,13 +24,13 @@ Public Policy and Administration — Economic Policy, Data Analysis
 ---
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/letrinhandn">
     <img src="https://img.shields.io/badge/GitHub-Profile-0B3D2E?style=for-the-badge&logo=github&logoColor=E5C07B" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:letrinhan123@.com">
     <img src="https://img.shields.io/badge/Email-Contact-0B3D2E?style=for-the-badge&logo=gmail&logoColor=E5C07B" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/letrinhan/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=E5C07B" />
   </a>
 </p>
