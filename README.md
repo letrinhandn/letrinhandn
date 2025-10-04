@@ -24,22 +24,32 @@ Public Policy and Administration — Economic Policy, Data Analysis
 ---
 <!-- Social icons section -->
 <p align="center">
+
+  <!-- GitHub -->
   <a href="https://github.com/yourusername" title="GitHub">
-    <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+
+  <!-- Email -->
   <a href="mailto:your.email@example.com" title="Email">
-    <img width="36px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/your-linkedin" title="LinkedIn">
-    <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+
+  <!-- ORCID -->
   <a href="https://orcid.org/your-orcid-id" title="ORCID">
-    <img width="36px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
+    <img width="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
   </a>
+
 </p>
+
 
 ---
 
