@@ -24,7 +24,7 @@ Public Policy and Administration — Economic Policy, Data Analysis
 ---
 <p align="center">
   <a href="https://github.com/yourusername" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark&perline=3" width="45"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:your.email@example.com" title="Email">
@@ -33,6 +33,10 @@ Public Policy and Administration — Economic Policy, Data Analysis
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/your-linkedin" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://orcid.org/your-orcid-id" title="ORCID">
+    <img src="https://skillicons.dev/icons?i=orcid&theme=dark" width="45"/>
   </a>
 </p>
 ---
