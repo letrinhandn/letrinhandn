@@ -25,13 +25,13 @@ Public Policy and Administration — Economic Policy, Data Analysis
 
 <p align="center">
   <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0B3D2E?style=for-the-badge&logo=github&logoColor=E5C07B&labelColor=0B3D2E" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-0B3D2E?style=for-the-badge&logo=github&logoColor=E5C07B&labelColor=0B3D2E&colorA=0B3D2E&colorB=0B3D2E" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0B3D2E?style=for-the-badge&logo=gmail&logoColor=E5C07B&labelColor=0B3D2E" />
+    <img src="https://img.shields.io/badge/Email-Contact-0B3D2E?style=for-the-badge&logo=gmail&logoColor=E5C07B&labelColor=0B3D2E&colorA=0B3D2E&colorB=0B3D2E" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0B3D2E?style=for-the-badge&logoColor=E5C07B&labelColor=0B3D2E" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=E5C07B&labelColor=0B3D2E&colorA=0B3D2E&colorB=0B3D2E" />
   </a>
 </p>
 
