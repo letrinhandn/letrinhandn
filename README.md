@@ -23,14 +23,16 @@ Public Policy and Administration — Economic Policy, Data Analysis
 
 ---
 <p align="center">
-  <a href="https://github.com/yourusername" style="text-decoration:none;">
-    <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=E5C07B&style=flat&logo=github&logoColor=0B3D2E&labelColor=0B3D2E">
+  <a href="https://github.com/yourusername" title="GitHub">
+    <img width="34px" alt="GitHub" src="https://i.imgur.com/YJ8V1oj.png"/>
   </a>
-  <a href="mailto:your.email@example.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/static/v1?label=&message=Email&color=E5C07B&style=flat&logo=gmail&logoColor=0B3D2E&labelColor=0B3D2E">
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:your.email@example.com" title="Email">
+    <img width="34px" alt="Email" src="https://i.imgur.com/z8xM4kR.png"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" style="text-decoration:none;">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=E5C07B&style=flat&logo=linkedin&logoColor=0B3D2E&labelColor=0B3D2E">
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/your-linkedin" title="LinkedIn">
+    <img width="34px" alt="LinkedIn" src="https://i.imgur.com/Kl9u3cq.png"/>
   </a>
 </p>
 
