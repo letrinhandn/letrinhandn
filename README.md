@@ -18,7 +18,7 @@ Public Policy and Administration — Economic Policy, Data Analysis
 ---
 
 📜 **Certifications**  
-- *Blockchain Basics* — University at Buffalo (SUNY)  
+- *Blockchain Basics* — University at Buffalo 
 - *CS50’s Introduction to Programming with R* — Harvard University  
 
 ---
