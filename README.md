@@ -30,8 +30,9 @@ Public Policy and Administration — Economic Policy, Data Analysis
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-0B3D2E?style=for-the-badge&logo=gmail&logoColor=E5C07B&labelColor=0B3D2E" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0B3D2E?style=for-the-badge&logo=LinkedIn&logoColor=E5C07B&labelColor=0B3D2E" />
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="vertical-align: middle; margin-right: 6px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0B3D2E?style=for-the-badge&logoColor=E5C07B&labelColor=0B3D2E" />
   </a>
 </p>
 
