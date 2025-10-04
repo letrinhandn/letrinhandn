@@ -22,23 +22,25 @@ Public Policy and Administration — Economic Policy, Data Analysis
 - *CS50’s Introduction to Programming with R* — Harvard University  
 
 ---
+<!-- Social icons section -->
 <p align="center">
   <a href="https://github.com/yourusername" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/>
+    <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:your.email@example.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45"/>
+    <img width="36px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/your-linkedin" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45"/>
+    <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://orcid.org/your-orcid-id" title="ORCID">
-    <img src="https://skillicons.dev/icons?i=orcid&theme=dark" width="45"/>
+    <img width="36px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
   </a>
 </p>
+
 ---
 
 <div align="center">
