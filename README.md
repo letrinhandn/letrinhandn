@@ -22,10 +22,16 @@ Public Policy and Administration — Economic Policy, Data Analysis
 - *CS50’s Introduction to Programming with R* — Harvard University  
 
 ---
-<p align="center" style="font-family:'Courier New', monospace; font-size:15px;">
-  <a href="https://github.com/yourusername" style="color:#E5C07B; text-decoration:none;">✦ GitHub</a> · 
-  <a href="mailto:your.email@example.com" style="color:#E5C07B; text-decoration:none;">✉︎ Email</a> · 
-  <a href="https://www.linkedin.com/in/your-linkedin" style="color:#E5C07B; text-decoration:none;">☍ LinkedIn</a>
+<p align="center">
+  <a href="https://github.com/yourusername" style="text-decoration:none;">
+    <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=E5C07B&style=flat&logo=github&logoColor=0B3D2E&labelColor=0B3D2E">
+  </a>
+  <a href="mailto:your.email@example.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/static/v1?label=&message=Email&color=E5C07B&style=flat&logo=gmail&logoColor=0B3D2E&labelColor=0B3D2E">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" style="text-decoration:none;">
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=E5C07B&style=flat&logo=linkedin&logoColor=0B3D2E&labelColor=0B3D2E">
+  </a>
 </p>
 
 ---
