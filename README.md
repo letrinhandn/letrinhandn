@@ -13,10 +13,10 @@
 #### 🎓 Education  
 
 - **The London School of Economics and Political Science (LSE)**  
-  *Public Policy and Administration — Quantitative Research and Economic Policy*  
+  *MSc — Public Policy and Administration*  
 
 - **National Economics University (Vietnam)**  
-  *Public Policy and Administration — Economic Policy, Data Analysis*  
+  *Bachelor — Public Policy and Administration — Economic Policy, Data Analysis*  
 ---
 
 📜 **Certifications**  
