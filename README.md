@@ -9,38 +9,20 @@ Political Economy · Quantitative Research · Systems Analysis
 
 ---
 
-### 📖 Overview  
-Researcher in political economy and quantitative policy analysis.  
-Focus on modeling systems of redistribution, behavior, and governance.  
-Interest in the intersection of economics, philosophy, and digital infrastructures.  
+🎓 **The London School of Economics and Political Science (LSE)**  
+Public Policy and Administration — Quantitative Research and Economic Policy  
+
+🎓 **National Economics University (Vietnam)**  
+Public Policy and Administration — Economic Policy, Data Analysis  
 
 ---
 
-### ⚙︎ Experience  
-📜 **Vietnam National Union of Students** – Executive Committee (National & City levels)  
-> Strategic planning, youth policy, organizational coordination.  
-
-📜 **Ho Chi Minh Communist Youth Union (NEU)** – Standing Committee Member  
-> Leadership development, policy communication, data-informed programs.  
-
-📜 **Independent Research**  
-> Quantitative and behavioral studies in innovation and social networks.  
+📜 **Certifications**  
+- *Blockchain Basics* — University at Buffalo (SUNY)  
+- *CS50’s Introduction to Programming with R* — Harvard University  
 
 ---
 
-### 📚 Publications  
-📖 *Knowledge Transformation and Innovation in Global Society* — Springer, 2024  
-📖 *Determinants of Self-Protective Intention on Social Networks of Youth in Vietnam* — JED, 2023  
-
----
-
-### ⚗︎ Skills  
-`R` · `Python` · `Stan` · `Solidity` · `Docker`  
-Quantitative Modeling · Policy Analysis · Econometrics · Network Simulation  
-
----
-
-### 📮 Contact  
 [GitHub](https://github.com/yourusername) · [Email](mailto:your.email@example.com) · [LinkedIn](https://linkedin.com/in/your-linkedin)  
 
 ---
