@@ -26,7 +26,7 @@ Public Policy and Administration — Economic Policy, Data Analysis
 <p align="center">
 
   <!-- GitHub -->
-  <a href="https://github.com/yourusername" title="GitHub">
+  <a href="https://github.com/letrinhandn" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -38,7 +38,7 @@ Public Policy and Administration — Economic Policy, Data Analysis
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/your-linkedin" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/letrinhandn" title="LinkedIn">
     <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
