@@ -9,33 +9,34 @@ Political Economy · Quantitative Research · Systems Analysis
 
 ---
 
-### 📖 Orientation  
-Economic systems as computational artifacts.  
-Modeling as critique.  
+### 📖 Overview  
+Researcher in political economy and quantitative policy analysis.  
+Focus on modeling systems of redistribution, behavior, and governance.  
+Interest in the intersection of economics, philosophy, and digital infrastructures.  
 
 ---
 
-### ⚙︎ Focus  
-⌨︎ Political economy · Quantitative methods · Network dynamics  
-⚖︎ Redistribution · Behavioral systems · Digital governance  
+### ⚙︎ Experience  
+📜 **Vietnam National Union of Students** – Executive Committee (National & City levels)  
+> Strategic planning, youth policy, organizational coordination.  
 
----
+📜 **Ho Chi Minh Communist Youth Union (NEU)** – Standing Committee Member  
+> Leadership development, policy communication, data-informed programs.  
 
-### 📜 Projects  
-✎ **red-econ-lab** — reproducible economic experiments  
-✎ **statecraft-sims** — agent-based redistribution models  
-✎ **praxis-oracle** — collective verification oracle  
+📜 **Independent Research**  
+> Quantitative and behavioral studies in innovation and social networks.  
 
 ---
 
 ### 📚 Publications  
-📖 *Innovation and Collaboration in Vietnam* — Springer, 2024  
-📖 *Privacy Behavior of Youth on Social Networks* — JED, 2023  
+📖 *Knowledge Transformation and Innovation in Global Society* — Springer, 2024  
+📖 *Determinants of Self-Protective Intention on Social Networks of Youth in Vietnam* — JED, 2023  
 
 ---
 
-### ⚗︎ Stack  
+### ⚗︎ Skills  
 `R` · `Python` · `Stan` · `Solidity` · `Docker`  
+Quantitative Modeling · Policy Analysis · Econometrics · Network Simulation  
 
 ---
 
