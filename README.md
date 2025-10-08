@@ -17,13 +17,25 @@
 
 - **National Economics University (NEU)**  
   *Bachelor — Public Policy and Administration*  
+
 ---
 
 📜 **Certifications**  
-- *Blockchain Basics* — University at Buffalo 
+- *Blockchain Basics* — University at Buffalo  
 - *CS50’s Introduction to Programming with R* — Harvard University  
 
 ---
+
+### 🧩 Projects  
+
+| Project | Description | Link |
+|:--|:--|:--|
+| **BTC Netflow Post-Halving (2024)** | Data-driven analysis of Bitcoin netflows and market behavior after the 2024 halving event. | [🔗 View on GitHub](https://github.com/letrinhandn/BTC-Netflow-PostHalving-2024.git) |
+| **Informal Competition & Innovation (Vietnam)** | Empirical study on how informal competition affects product and process innovation among Vietnamese firms. | [🔗 View on GitHub](https://github.com/letrinhandn/The-impact-of-informal-competition-on-product-and-process-innovation-in-Vietnam.git) |
+| **Citizen Participation & Local Growth (Vietnam)** | Quantitative research on the relationship between civic engagement and local economic growth in Vietnam. | [🔗 View on GitHub](https://github.com/letrinhandn/Citizen-Participation-and-Local-Economic-Growth-in-Vietnam.git) |
+
+---
+
 <!-- Social icons section -->
 <p align="center">
 
@@ -51,7 +63,6 @@
   </a>
 
 </p>
-
 
 ---
 
