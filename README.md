@@ -2,7 +2,7 @@
 
 I'm **Lê Trí Nhân**, a researcher and builder at the intersection of **political economy**, **quantitative finance**, and **crypto**.
 
-I run [Rafetus](https://rafetus.vn), an AI document manager, and build open tools such as [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade), a local market-research terminal in the spirit of professional trading desks. My research focuses on public policy, quantitative politics, policy philosophy, and political economy.
+I run [Rafetus](https://rafetus.vn), an AI document manager for searching and managing large document vaults, and build open tools such as [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade), a local market-research terminal in the spirit of professional trading desks. My research focuses on public policy, quantitative politics, policy philosophy, and political economy.
 
 ---
 
@@ -10,7 +10,7 @@ I run [Rafetus](https://rafetus.vn), an AI document manager, and build open tool
 
 - **Public policy, quantitative politics, policy philosophy, and political economy.**
 - **Quant and market systems:** terminal UIs, market data pipelines, research tooling, and crypto market microstructure.
-- **Product and systems engineering:** full-stack web and mobile apps, RAG over private knowledge, privacy-first AI.
+- **Product and systems engineering:** full-stack web and mobile apps, document AI, and knowledge systems.
 
 ---
 
@@ -57,7 +57,7 @@ I run [Rafetus](https://rafetus.vn), an AI document manager, and build open tool
 | --- | --- |
 | [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade) | Open-source trading and research terminal: real-time desks, options, macro, geo risk. |
 | [Quant Theory Lab](https://github.com/letrinhandn/quant-theory-lab) | Pricing theory, stochastic methods, and quant notebooks. |
-| [Rafetus](https://rafetus.vn) | AI document manager. |
+| [Rafetus](https://rafetus.vn) | AI document manager: upload, organize, search, and ask across a document vault. |
 | [ORCID](https://orcid.org/0009-0004-6075-4119) | Conference and published work on innovation, informal labour, and crypto-asset tax and pricing. |
 
 ---
