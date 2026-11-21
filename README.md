@@ -51,13 +51,22 @@ I run [Rafetus](https://rafetus.vn), an AI document manager for searching and ma
 
 ---
 
+### Digital garden
+
+Hub: [letrinhan-site](https://letrinhan-site.vercel.app/)
+
+| Lab | What it is |
+| --- | --- |
+| [Economic Lab](https://letrinhandn.github.io/economic-lab/) | Economic theory essays (Quarto): growth, macro, Solow–Swan. |
+| [Quant Theory Lab](https://letrinhandn.github.io/quant-theory-lab/) | Quant finance theory: notebooks, papers, Quarto essays. |
+| [Investment Research Lab](https://github.com/letrinhandn/investment-research-lab) | Private vault: memos, passed alphas, investment reports. |
+
 ### Featured works
 
 | Project | What it is |
 | --- | --- |
 | [Rafetus](https://rafetus.vn) | AI document manager application for large document vaults. |
 | [Terminal Trade](https://terminal-trade-iota.vercel.app) | Bloomberg Terminal inspired trading / market-research platform. |
-| [Quant Theory Lab](https://github.com/letrinhandn/quant-theory-lab) | Knowledge vault for quantitative finance theory: notebooks, papers, Quarto essays, models, and data. |
 | [TICKER](https://comrade-lenan.itch.io/ticker) | Multiplayer stock-market board game (Cờ chứng khoán). |
 | [ORCID](https://orcid.org/0009-0004-6075-4119) | Research record in public policy, political economy, and related conference publications. |
 
