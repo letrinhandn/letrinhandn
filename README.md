@@ -57,7 +57,7 @@ I run [Rafetus](https://rafetus.vn), an AI knowledge product, and build open too
 | --- | --- |
 | [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade) | Open-source trading and research terminal: real-time desks, options, macro, geo risk. |
 | [Quant Theory Lab](https://github.com/letrinhandn/quant-theory-lab) | Pricing theory, stochastic methods, and quant notebooks. |
-| [Rafetus](https://rafetus.vn) | AI knowledge app: notes, retrieval, E2EE, Next.js, Workers, Supabase, Flutter. |
+| [Rafetus](https://rafetus.vn) | AI knowledge app for storing, organizing, searching, and connecting notes and documents. |
 | [ORCID](https://orcid.org/0009-0004-6075-4119) | Conference and published work on innovation, informal labour, and crypto-asset tax and pricing. |
 
 ---
