@@ -2,13 +2,13 @@
 
 I'm **Lê Trí Nhân**, a researcher and builder at the intersection of **political economy**, **quantitative finance**, and **crypto**.
 
-I run [Rafetus](https://rafetus.vn), an AI knowledge product, and build open tools such as [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade), a local market-research terminal in the spirit of professional trading desks. My research focuses on Vietnamese institutions, informal markets, and how policy shapes firm behaviour and growth.
+I run [Rafetus](https://rafetus.vn), an AI knowledge product, and build open tools such as [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade), a local market-research terminal in the spirit of professional trading desks. My research focuses on public policy, quantitative politics, policy philosophy, and political economy.
 
 ---
 
 ### Expertise
 
-- **Political and institutional economics:** citizen participation, informal competition, innovation, and sub-national growth in Vietnam.
+- **Public policy, quantitative politics, policy philosophy, and political economy.**
 - **Quant and market systems:** terminal UIs, market data pipelines, research tooling, and crypto market microstructure.
 - **Product and systems engineering:** full-stack web and mobile apps, RAG over private knowledge, privacy-first AI.
 
