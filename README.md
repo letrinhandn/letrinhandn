@@ -51,14 +51,16 @@ I run [Rafetus](https://rafetus.vn), an AI document manager for searching and ma
 
 ---
 
-### Featured work
+### Featured works
 
 | Project | What it is |
 | --- | --- |
-| [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade) | Open-source trading and research terminal: real-time desks, options, macro, geo risk. |
-| [Quant Theory Lab](https://github.com/letrinhandn/quant-theory-lab) | Pricing theory, stochastic methods, and quant notebooks. |
-| [Rafetus](https://rafetus.vn) | AI document manager: upload, organize, search, and ask across a document vault. |
-| [ORCID](https://orcid.org/0009-0004-6075-4119) | Conference and published work on innovation, informal labour, and crypto-asset tax and pricing. |
+| [Rafetus](https://rafetus.vn) | AI document manager for large document vaults: upload, organize, search, note, link, and ask with AI. |
+| [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade) | Open-source market research terminal inspired by Bloomberg-style desks: markets, equity, options, macro, geo. |
+| [Quant Theory Lab](https://github.com/letrinhandn/quant-theory-lab) | Knowledge vault for quantitative finance theory: notebooks, papers, Substack posts, models, and data. |
+| [TICKER](https://github.com/letrinhandn/ticker) | Multiplayer stock-market board game (Cờ chứng khoán). Play at [tickergame.vercel.app](https://tickergame.vercel.app). |
+| [Personal site](https://letrinhan-site.vercel.app/) | Pixel-art landing page and public index of research and products. |
+| [ORCID](https://orcid.org/0009-0004-6075-4119) | Research record in public policy, political economy, and related conference publications. |
 
 ---
 
