@@ -1,18 +1,53 @@
 ### Hi there
 
-I'm **Lê Trí Nhân** — researcher and builder working at the intersection of **political economy**, **quantitative finance**, and **crypto**.
+I'm **Lê Trí Nhân**, a researcher and builder at the intersection of **political economy**, **quantitative finance**, and **crypto**.
 
-I run [Rafetus](https://rafetus.vn) (AI knowledge infrastructure) and build open tools like [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade), a local market-research terminal inspired by Bloomberg-style workflows. My research focuses on Vietnamese institutions, informal markets, and how policy shapes firm behaviour and growth.
+I run [Rafetus](https://rafetus.vn), an AI knowledge product, and build open tools such as [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade), a local market-research terminal in the spirit of professional trading desks. My research focuses on Vietnamese institutions, informal markets, and how policy shapes firm behaviour and growth.
 
 ---
 
 ### Expertise
 
-- **Political / institutional economics** — citizen participation, informal competition, innovation, and sub-national growth in Vietnam
-- **Quant & market systems** — terminal UIs, market data pipelines, backtesting-oriented tooling, crypto market microstructure
-- **Product & systems engineering** — full-stack apps (web + mobile), RAG over private knowledge, privacy-first AI
+- **Political and institutional economics:** citizen participation, informal competition, innovation, and sub-national growth in Vietnam
+- **Quant and market systems:** terminal UIs, market data pipelines, research tooling, and crypto market microstructure
+- **Product and systems engineering:** full-stack web and mobile apps, RAG over private knowledge, privacy-first AI
 
-MSc Public Policy & Administration, [LSE](https://www.lse.ac.uk/) · BSc Public Policy, [NEU](https://en.neu.edu.vn/) (GPA 3.88)
+---
+
+### Education
+
+<table>
+  <tr>
+    <td width="72" valign="top">
+      <img src="assets/neu.png" width="56" alt="National Economics University" />
+    </td>
+    <td valign="top">
+      <b><a href="https://neu.edu.vn/">National Economics University (Vietnam)</a></b><br/>
+      Doctor of Science, Public Management<br/>
+      Sep 2026 – Present
+    </td>
+  </tr>
+  <tr>
+    <td width="72" valign="top">
+      <img src="assets/lse.png" width="56" alt="London School of Economics" />
+    </td>
+    <td valign="top">
+      <b><a href="https://www.lse.ac.uk/">The London School of Economics and Political Science (LSE)</a></b><br/>
+      Master's degree, Public Policy and Administration<br/>
+      Sep 2024 – Sep 2025 · Merit
+    </td>
+  </tr>
+  <tr>
+    <td width="72" valign="top">
+      <img src="assets/neu.png" width="56" alt="National Economics University" />
+    </td>
+    <td valign="top">
+      <b><a href="https://neu.edu.vn/">National Economics University (Vietnam)</a></b><br/>
+      Bachelor's degree, Public Policy and Administration<br/>
+      2020 – 2024
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -20,10 +55,10 @@ MSc Public Policy & Administration, [LSE](https://www.lse.ac.uk/) · BSc Public 
 
 | Project | What it is |
 | --- | --- |
-| [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade) | Open-source trading / research terminal — real-time desks, options, macro, geo risk |
-| [quant-finance](https://github.com/letrinhandn/quant-finance) | Quant notebooks & experiments |
-| [Rafetus](https://rafetus.vn) | AI knowledge app — notes, retrieval, E2EE; Next.js · Workers · Supabase · Flutter |
-| [ORCID](https://orcid.org/0009-0004-6075-4119) | Peer-reviewed & conference work on innovation, informal labour, crypto-asset tax/pricing |
+| [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade) | Open-source trading and research terminal: real-time desks, options, macro, geo risk |
+| [quant-finance](https://github.com/letrinhandn/quant-finance) | Quant notebooks and experiments |
+| [Rafetus](https://rafetus.vn) | AI knowledge app: notes, retrieval, E2EE; Next.js, Workers, Supabase, Flutter |
+| [ORCID](https://orcid.org/0009-0004-6075-4119) | Conference and published work on innovation, informal labour, and crypto-asset tax and pricing |
 
 ---
 
@@ -38,7 +73,7 @@ MSc Public Policy & Administration, [LSE](https://www.lse.ac.uk/) · BSc Public 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1a476f?style=for-the-badge&logo=stata&logoColor=white)
 
-**Web & product**
+**Web and product**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -46,7 +81,7 @@ MSc Public Policy & Administration, [LSE](https://www.lse.ac.uk/) · BSc Public 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Data, quant & AI**
+**Data, quant and AI**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -55,7 +90,7 @@ MSc Public Policy & Administration, [LSE](https://www.lse.ac.uk/) · BSc Public 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG%20%2F%20pgvector-111827?style=for-the-badge)
 
-**Infra & crypto**
+**Infra and crypto**
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -77,4 +112,4 @@ MSc Public Policy & Administration, [LSE](https://www.lse.ac.uk/) · BSc Public 
 
 ---
 
-<p align="center"><em>Institutions shape markets — code makes that measurable.</em></p>
+<p align="center"><em>Institutions shape markets. Code makes that measurable.</em></p>
