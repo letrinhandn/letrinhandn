@@ -1,45 +1,80 @@
-<div align="center">
-  <img src="https://rafetus.vn/brand/logo/Horizontal/Dark/logo-lockup-horizontal-dark.svg" alt="Rafetus" width="100%">
-</div>
+### Hi there
 
-<br>
+I'm **Lê Trí Nhân** — researcher and builder working at the intersection of **political economy**, **quantitative finance**, and **crypto**.
 
-I spent a long time thinking about how knowledge actually works: not as retrieval, but as a process of structured contradiction and accumulation. That thinking became [Rafetus](https://rafetus.vn), which I now build and run.
-
-My other work is in Vietnamese political economy and institutional economics.
+I run [Rafetus](https://rafetus.vn) (AI knowledge infrastructure) and build open tools like [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade), a local market-research terminal inspired by Bloomberg-style workflows. My research focuses on Vietnamese institutions, informal markets, and how policy shapes firm behaviour and growth.
 
 ---
 
-### Research
+### Expertise
 
-**Informal competition, product innovation, and process innovation in Vietnam**  
-Examines how the informal sector reshapes innovation incentives among formal firms. Uses enterprise survey data with econometric identification to disentangle selection from treatment effects.
+- **Political / institutional economics** — citizen participation, informal competition, innovation, and sub-national growth in Vietnam
+- **Quant & market systems** — terminal UIs, market data pipelines, backtesting-oriented tooling, crypto market microstructure
+- **Product & systems engineering** — full-stack apps (web + mobile), RAG over private knowledge, privacy-first AI
 
-**Citizen participation and local economic growth in Vietnam**  
-Analyses the causal relationship between participatory governance mechanisms and sub-national economic performance across Vietnamese provinces.
-
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--6075--4119-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-6075-4119)
+MSc Public Policy & Administration, [LSE](https://www.lse.ac.uk/) · BSc Public Policy, [NEU](https://en.neu.edu.vn/) (GPA 3.88)
 
 ---
 
-### Stack
+### Featured work
 
-Rafetus is a monorepo (Next.js 15 · Cloudflare Workers · Supabase) with a Flutter mobile client. The AI subsystem uses context-grounded retrieval (pgvector + RAG) over the user's own knowledge base; third-party model calls are constrained to zero-data-retention providers.
-
-`TypeScript` `Python` `Dart` &nbsp;·&nbsp; `Next.js` `React` `Flutter` &nbsp;·&nbsp; `Supabase` `PostgreSQL` `pgvector` &nbsp;·&nbsp; `Cloudflare Workers` `AWS` &nbsp;·&nbsp; `E2EE` `RAG` `Knowledge Graphs`
-
----
-
-### Education
-
-BSc Public Policy, National Economics University, Hanoi  
-MSc Public Policy & Administration, London School of Economics and Political Science
+| Project | What it is |
+| --- | --- |
+| [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade) | Open-source trading / research terminal — real-time desks, options, macro, geo risk |
+| [quant-finance](https://github.com/letrinhandn/quant-finance) | Quant notebooks & experiments |
+| [Rafetus](https://rafetus.vn) | AI knowledge app — notes, retrieval, E2EE; Next.js · Workers · Supabase · Flutter |
+| [ORCID](https://orcid.org/0009-0004-6075-4119) | Peer-reviewed & conference work on innovation, informal labour, crypto-asset tax/pricing |
 
 ---
 
-<p>
-  <a href="https://rafetus.vn">rafetus.vn</a> ·
-  <a href="https://www.linkedin.com/in/letrinhan/">LinkedIn</a> ·
-  <a href="https://orcid.org/0009-0004-6075-4119">ORCID</a> ·
-  <a href="mailto:letrinhan123@gmail.com">letrinhan123@gmail.com</a>
-</p>
+### Tech stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-1a476f?style=for-the-badge&logo=stata&logoColor=white)
+
+**Web & product**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Data, quant & AI**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG%20%2F%20pgvector-111827?style=for-the-badge)
+
+**Infra & crypto**
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge)
+
+---
+
+### Socials
+
+[![Website](https://img.shields.io/badge/Website-letrinhan--site-0A0A0A?style=for-the-badge)](https://letrinhan-site.vercel.app/)
+[![Rafetus](https://img.shields.io/badge/Rafetus-rafetus.vn-6B0F1A?style=for-the-badge)](https://rafetus.vn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letrinhan/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-6075-4119)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/letrinhan)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/comrade_lenan)
+[![Email](https://img.shields.io/badge/Email-letrinhan123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:letrinhan123@gmail.com)
+
+---
+
+<p align="center"><em>Institutions shape markets — code makes that measurable.</em></p>
