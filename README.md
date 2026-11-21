@@ -34,7 +34,7 @@ I run [Rafetus](https://rafetus.vn), an AI knowledge product, and build open too
     <td valign="top">
       <b><a href="https://www.lse.ac.uk/">The London School of Economics and Political Science (LSE)</a></b><br/>
       Master's degree, Public Policy and Administration<br/>
-      Sep 2024 – Sep 2025 · Merit
+      Sep 2024 – Sep 2025
     </td>
   </tr>
   <tr>
