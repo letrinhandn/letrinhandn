@@ -59,7 +59,7 @@ Hub: [letrinhan-site](https://letrinhan-site.vercel.app/)
 | --- | --- |
 | [Economic Lab](https://letrinhandn.github.io/economic-lab/) | Economic theory essays (Quarto): growth, macro, Solow–Swan. |
 | [Quant Theory Lab](https://letrinhandn.github.io/quant-theory-lab/) | Quant finance theory: notebooks, papers, Quarto essays. |
-| [Investment Research Lab](https://github.com/letrinhandn/investment-research-lab) | Private vault: memos, passed alphas, investment reports. |
+| [Investment Research Lab](https://letrinhandn.github.io/investment-research-lab/) | Memos, passed alphas, investment reports. |
 
 ### Featured works
 
