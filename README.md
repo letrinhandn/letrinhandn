@@ -8,9 +8,9 @@ I run [Rafetus](https://rafetus.vn), an AI knowledge product, and build open too
 
 ### Expertise
 
-- **Political and institutional economics:** citizen participation, informal competition, innovation, and sub-national growth in Vietnam
-- **Quant and market systems:** terminal UIs, market data pipelines, research tooling, and crypto market microstructure
-- **Product and systems engineering:** full-stack web and mobile apps, RAG over private knowledge, privacy-first AI
+- **Political and institutional economics:** citizen participation, informal competition, innovation, and sub-national growth in Vietnam.
+- **Quant and market systems:** terminal UIs, market data pipelines, research tooling, and crypto market microstructure.
+- **Product and systems engineering:** full-stack web and mobile apps, RAG over private knowledge, privacy-first AI.
 
 ---
 
@@ -29,7 +29,7 @@ I run [Rafetus](https://rafetus.vn), an AI knowledge product, and build open too
   </tr>
   <tr>
     <td width="72" valign="top">
-      <img src="assets/lse.png" width="56" alt="London School of Economics" />
+      <img src="assets/lse-logo.png" width="56" alt="London School of Economics" />
     </td>
     <td valign="top">
       <b><a href="https://www.lse.ac.uk/">The London School of Economics and Political Science (LSE)</a></b><br/>
@@ -55,10 +55,10 @@ I run [Rafetus](https://rafetus.vn), an AI knowledge product, and build open too
 
 | Project | What it is |
 | --- | --- |
-| [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade) | Open-source trading and research terminal: real-time desks, options, macro, geo risk |
-| [quant-finance](https://github.com/letrinhandn/quant-finance) | Quant notebooks and experiments |
-| [Rafetus](https://rafetus.vn) | AI knowledge app: notes, retrieval, E2EE; Next.js, Workers, Supabase, Flutter |
-| [ORCID](https://orcid.org/0009-0004-6075-4119) | Conference and published work on innovation, informal labour, and crypto-asset tax and pricing |
+| [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade) | Open-source trading and research terminal: real-time desks, options, macro, geo risk. |
+| [quant-finance](https://github.com/letrinhandn/quant-finance) | Quant notebooks and experiments. |
+| [Rafetus](https://rafetus.vn) | AI knowledge app: notes, retrieval, E2EE; Next.js, Workers, Supabase, Flutter. |
+| [ORCID](https://orcid.org/0009-0004-6075-4119) | Conference and published work on innovation, informal labour, and crypto-asset tax and pricing. |
 
 ---
 
