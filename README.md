@@ -18,30 +18,30 @@ I run [Rafetus](https://rafetus.vn), an AI knowledge product, and build open too
 
 <table>
   <tr>
-    <td width="72" valign="top">
-      <img src="assets/neu.png" width="56" alt="National Economics University" />
+    <td width="72" align="center" valign="middle">
+      <img src="assets/neu-logo.png" width="56" height="56" alt="National Economics University" />
     </td>
-    <td valign="top">
+    <td valign="middle">
       <b><a href="https://neu.edu.vn/">National Economics University (Vietnam)</a></b><br/>
       Doctor of Science, Public Management<br/>
       Sep 2026 to Present
     </td>
   </tr>
   <tr>
-    <td width="72" valign="top">
-      <img src="assets/lse-logo.png" width="56" alt="London School of Economics" />
+    <td width="72" align="center" valign="middle">
+      <img src="assets/lse-logo.png" width="56" height="56" alt="London School of Economics" />
     </td>
-    <td valign="top">
+    <td valign="middle">
       <b><a href="https://www.lse.ac.uk/">The London School of Economics and Political Science (LSE)</a></b><br/>
       Master's degree, Public Policy and Administration<br/>
       Sep 2024 to Sep 2025
     </td>
   </tr>
   <tr>
-    <td width="72" valign="top">
-      <img src="assets/neu.png" width="56" alt="National Economics University" />
+    <td width="72" align="center" valign="middle">
+      <img src="assets/neu-logo.png" width="56" height="56" alt="National Economics University" />
     </td>
-    <td valign="top">
+    <td valign="middle">
       <b><a href="https://neu.edu.vn/">National Economics University (Vietnam)</a></b><br/>
       Bachelor's degree, Public Policy and Administration<br/>
       2020 to 2024
