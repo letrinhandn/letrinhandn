@@ -24,7 +24,7 @@ I run [Rafetus](https://rafetus.vn), an AI knowledge product, and build open too
     <td valign="top">
       <b><a href="https://neu.edu.vn/">National Economics University (Vietnam)</a></b><br/>
       Doctor of Science, Public Management<br/>
-      Sep 2026 – Present
+      Sep 2026 to Present
     </td>
   </tr>
   <tr>
@@ -34,7 +34,7 @@ I run [Rafetus](https://rafetus.vn), an AI knowledge product, and build open too
     <td valign="top">
       <b><a href="https://www.lse.ac.uk/">The London School of Economics and Political Science (LSE)</a></b><br/>
       Master's degree, Public Policy and Administration<br/>
-      Sep 2024 – Sep 2025
+      Sep 2024 to Sep 2025
     </td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ I run [Rafetus](https://rafetus.vn), an AI knowledge product, and build open too
     <td valign="top">
       <b><a href="https://neu.edu.vn/">National Economics University (Vietnam)</a></b><br/>
       Bachelor's degree, Public Policy and Administration<br/>
-      2020 – 2024
+      2020 to 2024
     </td>
   </tr>
 </table>
@@ -57,7 +57,7 @@ I run [Rafetus](https://rafetus.vn), an AI knowledge product, and build open too
 | --- | --- |
 | [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade) | Open-source trading and research terminal: real-time desks, options, macro, geo risk. |
 | [quant-finance](https://github.com/letrinhandn/quant-finance) | Quant notebooks and experiments. |
-| [Rafetus](https://rafetus.vn) | AI knowledge app: notes, retrieval, E2EE; Next.js, Workers, Supabase, Flutter. |
+| [Rafetus](https://rafetus.vn) | AI knowledge app: notes, retrieval, E2EE, Next.js, Workers, Supabase, Flutter. |
 | [ORCID](https://orcid.org/0009-0004-6075-4119) | Conference and published work on innovation, informal labour, and crypto-asset tax and pricing. |
 
 ---
