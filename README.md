@@ -53,7 +53,7 @@ I run [Rafetus](https://rafetus.vn), an AI document manager for searching and ma
 
 ### Digital garden
 
-Hub: [letrinhan-site](https://letrinhan-site.vercel.app/)
+Hub: [letrinhan-site](https://letrinhandn.github.io/letrinhan-site/)
 
 | Lab | What it is |
 | --- | --- |
@@ -112,9 +112,9 @@ Hub: [letrinhan-site](https://letrinhan-site.vercel.app/)
 
 ### Socials
 
-Same profiles as [letrinhan-site](https://letrinhan-site.vercel.app/).
+Same profiles as [letrinhan-site](https://letrinhandn.github.io/letrinhan-site/).
 
-[![Website](https://img.shields.io/badge/Website-letrinhan--site-0A0A0A?style=for-the-badge)](https://letrinhan-site.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-letrinhan--site-0A0A0A?style=for-the-badge)](https://letrinhandn.github.io/letrinhan-site/)
 [![Rafetus](https://img.shields.io/badge/Rafetus-rafetus.vn-6B0F1A?style=for-the-badge)](https://rafetus.vn)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/comrade-letrinhan.bsky.social)
 [![X](https://img.shields.io/badge/X-@comrade__lenhan-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/comrade_lenhan)
