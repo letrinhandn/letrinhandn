@@ -2,7 +2,7 @@
 
 I'm **Lê Trí Nhân**, a researcher and builder at the intersection of **political economy**, **quantitative finance**, and **crypto**.
 
-I run [Rafetus](https://rafetus.vn), an AI document manager for searching and managing large document vaults, and build open tools such as [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade), a local market-research terminal in the spirit of professional trading desks. My research focuses on public policy, quantitative politics, policy philosophy, and political economy.
+I run [Rafetus](https://rafetus.vn), an AI document manager for searching and managing large document vaults, and build open tools such as [Terminal Trade](https://terminal-trade-iota.vercel.app), a local market-research terminal in the spirit of professional trading desks. My research focuses on public policy, quantitative politics, policy philosophy, and political economy.
 
 ---
 
@@ -55,9 +55,9 @@ I run [Rafetus](https://rafetus.vn), an AI document manager for searching and ma
 
 | Project | What it is |
 | --- | --- |
-| [Rafetus](https://rafetus.vn) | AI document manager for large document vaults: upload, organize, search, note, link, and ask with AI. |
-| [Terminal Trade](https://github.com/letrinhandn/Terminal-Trade) | Open-source market research terminal inspired by Bloomberg-style desks: markets, equity, options, macro, geo. |
-| [Quant Theory Lab](https://github.com/letrinhandn/quant-theory-lab) | Knowledge vault for quantitative finance theory: notebooks, papers, Substack posts, models, and data. |
+| [Rafetus](https://rafetus.vn) | AI document manager application for large document vaults. |
+| [Terminal Trade](https://terminal-trade-iota.vercel.app) | Bloomberg Terminal inspired trading / market-research platform. |
+| [Quant Theory Lab](https://github.com/letrinhandn/quant-theory-lab) | Knowledge vault for quantitative finance theory: notebooks, papers, Quarto essays, models, and data. |
 | [TICKER](https://comrade-lenan.itch.io/ticker) | Multiplayer stock-market board game (Cờ chứng khoán). |
 | [ORCID](https://orcid.org/0009-0004-6075-4119) | Research record in public policy, political economy, and related conference publications. |
 
@@ -103,12 +103,22 @@ I run [Rafetus](https://rafetus.vn), an AI document manager for searching and ma
 
 ### Socials
 
+Same profiles as [letrinhan-site](https://letrinhan-site.vercel.app/).
+
 [![Website](https://img.shields.io/badge/Website-letrinhan--site-0A0A0A?style=for-the-badge)](https://letrinhan-site.vercel.app/)
 [![Rafetus](https://img.shields.io/badge/Rafetus-rafetus.vn-6B0F1A?style=for-the-badge)](https://rafetus.vn)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/comrade-letrinhan.bsky.social)
+[![X](https://img.shields.io/badge/X-@comrade__lenhan-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/comrade_lenhan)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://letrinhannotebooks.substack.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@beatsprodbynhan8026)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letrinhan/)
+[![GitHub](https://img.shields.io/badge/GitHub-letrinhandn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/letrinhandn)
+[![itch.io](https://img.shields.io/badge/itch.io-comrade--lenan-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://comrade-lenan.itch.io/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-6075-4119)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=L7xNHUAAAAAJ&hl=en)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100023079422663)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/letrinhan)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/comrade_lenan)
+[![QuantConnect](https://img.shields.io/badge/QuantConnect-F5A623?style=for-the-badge)](https://www.quantconnect.com/u/nhan_1)
 [![Email](https://img.shields.io/badge/Email-letrinhan123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:letrinhan123@gmail.com)
 
 ---
